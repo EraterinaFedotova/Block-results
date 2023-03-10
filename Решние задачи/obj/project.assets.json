@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Итоговая\\Решние задачи\\Решние задачи.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Block-results\\Решние задачи\\Решние задачи.csproj",
       "projectName": "Решние задачи",
-      "projectPath": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Итоговая\\Решние задачи\\Решние задачи.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Block-results\\Решние задачи\\Решние задачи.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Итоговая\\Решние задачи\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\Домашние работы\\Репозитории\\Block-results\\Решние задачи\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
